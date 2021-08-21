@@ -1,0 +1,86 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../../fonts/flaticon.ttf?de907dc9386223b9df052a84d5235c1b") format("truetype"),
+url("../../fonts/flaticon.woff?de907dc9386223b9df052a84d5235c1b") format("woff"),
+url("../../fonts/flaticon.woff2?de907dc9386223b9df052a84d5235c1b") format("woff2"),
+url("../../fonts/flaticon.eot?de907dc9386223b9df052a84d5235c1b#iefix") format("embedded-opentype"),
+url("../../fonts/flaticon.svg?de907dc9386223b9df052a84d5235c1b#flaticon") format("svg");
+}
+@font-face {
+    font-family: "flaticon";
+    src: url("../../fonts/flaticon.ttf?ef40d1771f4317873ca461c9ee78e047") format("truetype"),
+url("../../fonts/flaticon.woff?ef40d1771f4317873ca461c9ee78e047") format("woff"),
+url("../../fonts/flaticon.woff2?ef40d1771f4317873ca461c9ee78e047") format("woff2"),
+url("../../fonts/flaticon.eot?ef40d1771f4317873ca461c9ee78e047#iefix") format("embedded-opentype"),
+url("../../fonts/flaticon.svg?ef40d1771f4317873ca461c9ee78e047#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.flaticon-health-check:before {
+    content: "\f101";
+}
+.flaticon-medicine:before {
+    content: "\f102";
+}
+.flaticon-ambulance:before {
+    content: "\f103";
+}
+.flaticon-doctor:before {
+    content: "\f104";
+}
+.flaticon-microscope:before {
+    content: "\f105";
+}
+.flaticon-surgery-room:before {
+    content: "\f106";
+}
+.flaticon-user:before {
+    content: "\f107";
+}
+.flaticon-message:before {
+    content: "\f108";
+}
+.flaticon-phone-call:before {
+    content: "\f109";
+}
+.flaticon-schedule:before {
+    content: "\f10a";
+}
+.flaticon-right-quotation-mark:before {
+    content: "\f10b";
+}
+.flaticon-add-user:before {
+    content: "\f10c";
+}
+.flaticon-calendar:before {
+    content: "\f10d";
+}
+.flaticon-emergency-call:before {
+    content: "\f10e";
+}
+.flaticon-medical-report:before {
+    content: "\f10f";
+}
+.flaticon-quotation-marks:before {
+    content: "\f110";
+}
+.flaticon-chat:before {
+    content: "\f111";
+}
+.flaticon-chat-1:before {
+    content: "\f112";
+}
+.flaticon-reply:before {
+    content: "\f113";
+}
